@@ -56,7 +56,7 @@ Data Scientist with practical work experience in developing and deploying Machin
 
 ## 📊 GitHub Stats
 
-
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shiv-am-04&show_icons=true&theme=tokyonight)
 
 
 ## 🔥 Current Focus
