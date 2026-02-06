@@ -12,7 +12,7 @@ Data Scientist with practical work experience in developing and deploying Machin
   <img src="https://github.com/user-attachments/assets/5404f954-f33c-4267-8590-4d76b273cf0c" width="300px" align="right" alt="Gojo"/>
 </div>
 
-- 🎓 **Mathematics Honors** graduate from **Delhi University** (GPA: 8.01)
+- 🎓 **Mathematics Honors** graduate from **Delhi University** 
 - 🔭 Currently working on advanced ML projects and data science solutions
 - 🌱 Continuously learning about cutting-edge AI technologies
 - 💡 Passionate about transforming data into actionable insights
