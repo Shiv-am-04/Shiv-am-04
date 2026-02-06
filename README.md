@@ -18,7 +18,6 @@ Data Scientist with practical work experience in developing and deploying Machin
 - 💡 Passionate about transforming data into actionable insights
 - 📊 Love working with complex datasets and building predictive models
 
-- 🧊 Stay Chill
 
 <div align="center">
   <picture>
@@ -33,7 +32,7 @@ Data Scientist with practical work experience in developing and deploying Machin
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Science & ML Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
